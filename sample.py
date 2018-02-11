@@ -1,5 +1,3 @@
-print("hello world")
-
 from binance.client import Client
 
 #2018/1/9 修正
